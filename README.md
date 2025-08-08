@@ -50,4 +50,4 @@ Flutter & Firebase Developer 💙
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/cloud_quiz.git
+https://github.com/Sandeep-Sisodiya/OIBSIP_Android_Development_task4.git
